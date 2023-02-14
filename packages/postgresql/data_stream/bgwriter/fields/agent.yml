@@ -133,6 +133,7 @@
     - name: name
       level: core
       type: keyword
+      dimension: true
       ignore_above: 1024
       description: 'Name of the host.
 
